@@ -1,0 +1,4 @@
+name: EconomyCore
+version: '${version}'
+main: mumeinosato.economycore.EconomyCore
+api-version: '1.20'
